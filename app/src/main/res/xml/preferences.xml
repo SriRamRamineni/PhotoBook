@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<SwitchPreference
+    android:title="Show Thumbnail"
+    android:id="@+id/thumbnail"
+    android:key="switchpref"
+    android:summary="Switch on to view the Thumbnails of Pictures in PictureList "
+    android:defaultValue="true"
+    />
+</PreferenceScreen>

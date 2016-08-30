@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">PhotoBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="sampleName">Sample_Name</string>
+    <string name="sampleuser">Sample_userName</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyDoUfIwrBiA1KEFuGT7UeyXjDfxmg72qiU</string>
+    <string name="title_activity_albums_list">AlbumsList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_album_list">AlbumList</string>
+    <string name="title_activity_user_info">UserInfo</string>
+    <string name="title_activity_pictures_list">PicturesList</string>
+    <string name="content_description">Thumbnail Image</string>
+    <string name="title_activity_picture_view">PictureView</string>
+    <string name="advice">Select any user to visit their individual galleries</string>
+    <string name="welcome">WELCOME</string>
+    <string name="username">User_Name</string>
+    <string name="email">Email:</string>
+    <string name="emaiuser">Email_user</string>
+    <string name="phone">Phone:</string>
+    <string name="phoneuser">phone_user</string>
+    <string name="address">Address:</string>
+    <string name="streetuser">street_user</string>
+    <string name="suiteuser">suite_user</string>
+    <string name="cityuser">City_user</string>
+    <string name="zipuser">zipcode</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
